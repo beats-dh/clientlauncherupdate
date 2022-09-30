@@ -1,0 +1,28 @@
+[ 2022-03-09 17:30:16,613 ] Asset loading complete
+[ 2022-03-09 17:30:26,512 ] News query failed: "Unrecognized event news."
+[ 2022-03-09 17:30:27,264 ] BattlEye: "Initialized (v1.246)"
+[ 2022-03-09 17:30:27,264 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-03-09 17:30:27,264 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-03-09 17:30:27,300 ] Request connection to gameserver  "tcp://191.96.224.227:7172"  (unprotected:  "tcp://191.96.224.227:7172" )  requested (Charakter "Elder Dalls" )
+[ 2022-03-09 17:30:27,307 ] Request connection to gameserver  "tcp://191.96.224.227:7172" "Veteranos"
+[ 2022-03-09 17:30:27,350 ] Connected to gameserver  "tcp://191.96.224.227:7172" "Veteranos"
+[ 2022-03-09 17:30:28,395 ] News query failed: "Unrecognized event news."
+[ 2022-03-09 17:30:32,418 ] Asset loading complete
+[ 2022-03-09 17:30:37,578 ] Asset loading complete
+[ 2022-03-09 17:30:51,105 ] Asset loading complete
+[ 2022-07-02 03:54:34,683 ] Asset loading complete
+[ 2022-07-02 03:55:06,629 ] News query failed: "Unrecognized event news."
+[ 2022-07-02 03:55:10,315 ] BattlEye: "Initialized (v1.246)"
+[ 2022-07-02 03:55:10,315 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-07-02 03:55:10,316 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-07-02 03:55:10,413 ] Request connection to gameserver  "tcp://kelteraglobal.com:7172"  (unprotected:  "tcp://kelteraglobal.com:7172" )  requested (Charakter "GOD Keltera" )
+[ 2022-07-02 03:55:10,431 ] Request connection to gameserver  "tcp://kelteraglobal.com:7172" "Keltera"
+[ 2022-07-02 03:55:10,549 ] Connected to gameserver  "tcp://kelteraglobal.com:7172" "Keltera"
+[ 2022-07-02 03:55:10,834 ] Connection to gameserver  "tcp://kelteraglobal.com:7172" "Keltera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-07-02 03:55:10,841 ] Disconnected from gameserver
+[ 2022-07-02 03:55:11,758 ] News query failed: "Unrecognized event news."
+[ 2022-07-02 03:55:16,222 ] News query failed: "Unrecognized event news."
+[ 2022-07-02 22:51:43,565 ] Asset loading complete
+[ 2022-07-02 22:52:17,853 ] News query failed: "Unrecognized event news."
+[ 2022-07-02 22:53:32,706 ] Asset loading complete
+[ 2022-07-02 22:54:14,707 ] Asset loading complete
